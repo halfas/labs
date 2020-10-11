@@ -5,3 +5,5 @@ let toHex = c => {
   let RGBToHex = (r, g, b) => `#${toHex(r)}${toHex(g)}${toHex(b)}`;
   
   console.log(RGBToHex(0, 255, 13));
+
+  //halfas - Сергей Гребенюков

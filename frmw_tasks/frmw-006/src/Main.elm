@@ -3,7 +3,7 @@ import Browser
 import Html exposing (Html, button, div, text)
 import Html.Events exposing (onClick)
 
--- Ripo4ek Andrey Lyapustin
+-- halfas Сергей Гребенюков
 main =
   Browser.sandbox { init = init, update = update, view = view }
 

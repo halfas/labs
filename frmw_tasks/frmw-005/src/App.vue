@@ -1,6 +1,6 @@
 <template>
 <div :style="myStyle">
-  <h4 id="author" v-bind:style="{ display: ['none']}" title="Ripo4ek">Andrey Lyapustin</h4>
+  <h4 id="author" v-bind:style="{ display: ['none']}" title="halfas">Сергей Гребенюков</h4>
             <div :key="color.name" v-for="color in colors">
                 <ColorSelector v-on:onChange="changeHandler" v-bind:colorData="color"/>
             </div>

@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h4 id="author" v-bind:style="{ display: ['none']}" title="Ripo4ek">Andrey Lyapustin</h4>
+        <h4 id="author" v-bind:style="{ display: ['none']}" title="halfas">Сергей Гребенюков</h4>
         <button v-on:click="incrementHandler">↑</button>
         <input  v-model="count"  type="text">
         <ul>

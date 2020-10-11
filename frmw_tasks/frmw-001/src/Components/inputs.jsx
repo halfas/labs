@@ -7,7 +7,7 @@ class Inputs extends Component {
     render() { 
         return (
             <React.Fragment>
-                <h4 id="author" style={{display: 'none'}} title="Ripo4ek">Andrey Lyapustin</h4>
+                <h4 id="author" style={{display: 'none'}} title="halfas">Сергей Гребенюков</h4>
                 <input onChange={this.changeHandler} type="text" value={this.state.inputValue}/>
                 <input onChange={this.changeHandler} type="text" value={this.state.inputValue}/> 
             </React.Fragment> 

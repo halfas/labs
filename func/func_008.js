@@ -20,3 +20,5 @@ GetDataAsync().then((data) => {
     console.log("Result of First function:", firstFunc(3, 4, 5, 10))
     console.log("Result of Second function:", secondFunc(1, 2, 3, 4, 5, 6, 7, 8, 9, 10))
 })
+
+//halfas - Сергей Гребенюков

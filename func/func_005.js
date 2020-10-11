@@ -8,3 +8,5 @@ const qv = partiPow(2);
 const cb = partiPow(3);
 console.log(qv(5));
 console.log(cb(5));
+
+//halfas - Сергей Гребенюков

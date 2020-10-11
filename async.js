@@ -28,6 +28,6 @@ function takeNumFromLayout(layout) {
     return re.exec(layout)[1]
 }
 
-
-
 PrintData(GetData())
+
+//halfas - Сергей Гребенюков

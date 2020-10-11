@@ -18,8 +18,8 @@ class App extends C {
   render() {
     return (
       <div>
-        <h4 id="author" style={{ display: 'none' }} title="Ripo4ek">
-          Andrey Lyapustin
+        <h4 id="author" style={{ display: 'none' }} title="halfas">
+        Сергей Гребенюков
         </h4>
         <Counter onIncrement={this.incrementHandler} stars={this.state.Day} />
         <DatePicker

@@ -6,3 +6,5 @@ let inc2 = num()
 let inc3 = num()
 
 console.log(inc, inc2, inc3)
+
+//halfas - Сергей Гребенюков
