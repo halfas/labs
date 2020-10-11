@@ -14,18 +14,18 @@
   
 + **ASYNC-TASKS** 
 
-  + ASYNC_001 - [Задание](https://kodaktor.ru/async_tasks) | [Решение](https://github.com/ripo4ek/UniversityTasks/blob/master/async_task.js)
-+ **BABEL_002** - [Задание](https://kodaktor.ru/lab02-03-2018-2.pdf) | [Решение](https://github.com/ripo4ek/UniversityTasks/tree/master/babel_002)
-+ **EVENT_002** - [Задание](https://kodaktor.ru/evnt_002) | [Решение](https://github.com/ripo4ek/UniversityTasks/blob/master/evnt_002.html)
+  + ASYNC_001 - [Задание](https://kodaktor.ru/async_tasks) | [Решение](https://github.com/halfas/testing/blob/main/async.js)
++ **BABEL_002** - [Задание](https://kodaktor.ru/lab02-03-2018-2.pdf) | [Решение](https://github.com/halfas/testing/tree/main/babel_002)
++ **EVENT_002** - [Задание](https://kodaktor.ru/evnt_002) | [Решение](https://github.com/halfas/testing/blob/main/event_002.html)
 
 + **FRMW_00***  
 
-  + FRMW_001 - [Задание](https://kodaktor.ru/frmw_001) | [Решение](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-001)
-  + FRMW_002 - [Задание](https://kodaktor.ru/frmw_002) | [Решение](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-002)
-  + FRMW_003 - [Задание](https://kodaktor.ru/frmw_003) | [Решение](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-003)
-  + FRMW_004 - [Задание](https://kodaktor.ru/frmw_004) | [Решение](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-004)
-  + FRMW_005 - [Задание](https://kodaktor.ru/frmw_005) | [Решение](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-005)
-  + FRMW_006 - [Задание](https://kodaktor.ru/frmw_006) | [Решение](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-006)
-  + FRMW_007 - [Задание](https://kodaktor.ru/frmw_007) | [Решение](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-007)
+  + FRMW_001 - [Задание](https://kodaktor.ru/frmw_001) | [Решение](https://github.com/halfas/testing/tree/main/frmw_tasks/frmw-001)
+  + FRMW_002 - [Задание](https://kodaktor.ru/frmw_002) | [Решение](https://github.com/halfas/testing/tree/main/frmw_tasks/frmw-002)
+  + FRMW_003 - [Задание](https://kodaktor.ru/frmw_003) | [Решение](https://github.com/halfas/testing/tree/main/frmw_tasks/frmw-003)
+  + FRMW_004 - [Задание](https://kodaktor.ru/frmw_004) | [Решение](https://github.com/halfas/testing/tree/main/frmw_tasks/frmw-004)
+  + FRMW_005 - [Задание](https://kodaktor.ru/frmw_005) | [Решение](https://github.com/halfas/testing/tree/main/frmw_tasks/frmw-005)
+  + FRMW_006 - [Задание](https://kodaktor.ru/frmw_006) | [Решение](https://github.com/halfas/testing/tree/main/frmw_tasks/frmw-006)
+  + FRMW_007 - [Задание](https://kodaktor.ru/frmw_007) | [Решение](https://github.com/halfas/testing/tree/main/frmw_tasks/frmw-007)
   
-+ **YOU** - [Задание](https://kodaktor.ru/you) | [Развертка](https://ripo4ek.github.io/reactDeploy/) | [Отчет](https://github.com/ripo4ek/UniversityTasks/blob/master/report.docx)  
++ **YOU** - [Задание](https://kodaktor.ru/you) | [Развертка]()
