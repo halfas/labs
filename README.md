@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Laboratory works([Github Pages](https://ripo4ek.github.io/UniversityTasks/))
+## Гребенюков Сергей - 2020
++ **FUNC_00***
 
-You can use the [editor on GitHub](https://github.com/halfas/testing/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+  + FUNC_001 - [Задание](https://kodaktor.ru/func_001) | [Решение](https://github.com/ripo4ek/UniversityTasks/blob/master/func_tasks/func_001.js)
+  + FUNC_002 - [Задание](https://kodaktor.ru/func_002) | [Решение](https://github.com/ripo4ek/UniversityTasks/blob/master/func_tasks/func_002.js)
+  + FUNC_003 - [Задание](https://kodaktor.ru/func_003) | [Решение](https://github.com/ripo4ek/UniversityTasks/blob/master/func_tasks/func_003.js)
+  + FUNC_004 - [Задание](https://kodaktor.ru/func_004) | [Решение](https://github.com/ripo4ek/UniversityTasks/blob/master/func_tasks/func_004.js)
+  + FUNC_005 - [Задание](https://kodaktor.ru/func_005) | [Решение](https://github.com/ripo4ek/UniversityTasks/blob/master/func_tasks/func_005.js)
+  + FUNC_006 - [Задание](https://kodaktor.ru/func_006) | [Решение](https://github.com/ripo4ek/UniversityTasks/tree/master/func_tasks/func_006)
+  + FUNC_007 - [Задание](https://kodaktor.ru/func_007) | [Решение](https://github.com/ripo4ek/UniversityTasks/blob/master/func_tasks/func_007.js)
+  + FUNC_008 - [Задание](https://kodaktor.ru/func_008) | [Решение](https://github.com/ripo4ek/UniversityTasks/blob/master/func_tasks/func_008.js)
+  + FUNC_009 - [Задание](https://kodaktor.ru/func_009) | [Решение](https://github.com/ripo4ek/UniversityTasks/blob/master/func_tasks/func_009.js)
+  
++ **ASYNC-TASKS** 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  + ASYNC_001 - [Задание](https://kodaktor.ru/async_tasks) | [Решение](https://github.com/ripo4ek/UniversityTasks/blob/master/async_task.js)
++ **BABEL_002** - [Задание](https://kodaktor.ru/lab02-03-2018-2.pdf) | [Решение](https://github.com/ripo4ek/UniversityTasks/tree/master/babel_002)
++ **EVENT_002** - [Задание](https://kodaktor.ru/evnt_002) | [Решение](https://github.com/ripo4ek/UniversityTasks/blob/master/evnt_002.html)
 
-### Markdown
++ **FRMW_00***  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/halfas/testing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  + FRMW_001 - [Задание](https://kodaktor.ru/frmw_001) | [Решение](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-001)
+  + FRMW_002 - [Задание](https://kodaktor.ru/frmw_002) | [Решение](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-002)
+  + FRMW_003 - [Задание](https://kodaktor.ru/frmw_003) | [Решение](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-003)
+  + FRMW_004 - [Задание](https://kodaktor.ru/frmw_004) | [Решение](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-004)
+  + FRMW_005 - [Задание](https://kodaktor.ru/frmw_005) | [Решение](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-005)
+  + FRMW_006 - [Задание](https://kodaktor.ru/frmw_006) | [Решение](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-006)
+  + FRMW_007 - [Задание](https://kodaktor.ru/frmw_007) | [Решение](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-007)
+  
++ **YOU** - [Задание](https://kodaktor.ru/you) | [Развертка](https://ripo4ek.github.io/reactDeploy/) | [Отчет](https://github.com/ripo4ek/UniversityTasks/blob/master/report.docx)  
