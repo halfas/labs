@@ -28,4 +28,4 @@
   + FRMW_006 - [Задание](https://kodaktor.ru/frmw_006) | [Решение](https://github.com/halfas/labs/tree/main/frmw_tasks/frmw-006)
   + FRMW_007 - [Задание](https://kodaktor.ru/frmw_007) | [Решение](https://github.com/halfas/labs/tree/main/frmw_tasks/frmw-007)
   
-+ **YOU** - [Задание](https://kodaktor.ru/you) | [Развертка]()
++ **YOU** - [Задание](https://kodaktor.ru/you) | [Развертка](https://halfas.github.io/reactDeploy/)
