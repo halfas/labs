@@ -1,4 +1,4 @@
-# Laboratory works([Github Pages](https://ripo4ek.github.io/UniversityTasks/))
+# Лабораторные работы ([Github Pages](https://halfas.github.io/testing/))
 ## Гребенюков Сергей - 2020
 + **FUNC_00***
 
