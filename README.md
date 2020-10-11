@@ -1,16 +1,16 @@
-# Laboratory works([Github Pages](https://ripo4ek.github.io/UniversityTasks/))
+# Лабораторные работы ([Github Pages](https://halfas.github.io/testing/))
 ## Гребенюков Сергей - 2020
 + **FUNC_00***
 
-  + FUNC_001 - [Задание](https://kodaktor.ru/func_001) | [Решение](https://github.com/ripo4ek/UniversityTasks/blob/master/func_tasks/func_001.js)
-  + FUNC_002 - [Задание](https://kodaktor.ru/func_002) | [Решение](https://github.com/ripo4ek/UniversityTasks/blob/master/func_tasks/func_002.js)
-  + FUNC_003 - [Задание](https://kodaktor.ru/func_003) | [Решение](https://github.com/ripo4ek/UniversityTasks/blob/master/func_tasks/func_003.js)
-  + FUNC_004 - [Задание](https://kodaktor.ru/func_004) | [Решение](https://github.com/ripo4ek/UniversityTasks/blob/master/func_tasks/func_004.js)
-  + FUNC_005 - [Задание](https://kodaktor.ru/func_005) | [Решение](https://github.com/ripo4ek/UniversityTasks/blob/master/func_tasks/func_005.js)
-  + FUNC_006 - [Задание](https://kodaktor.ru/func_006) | [Решение](https://github.com/ripo4ek/UniversityTasks/tree/master/func_tasks/func_006)
-  + FUNC_007 - [Задание](https://kodaktor.ru/func_007) | [Решение](https://github.com/ripo4ek/UniversityTasks/blob/master/func_tasks/func_007.js)
-  + FUNC_008 - [Задание](https://kodaktor.ru/func_008) | [Решение](https://github.com/ripo4ek/UniversityTasks/blob/master/func_tasks/func_008.js)
-  + FUNC_009 - [Задание](https://kodaktor.ru/func_009) | [Решение](https://github.com/ripo4ek/UniversityTasks/blob/master/func_tasks/func_009.js)
+  + FUNC_001 - [Задание](https://kodaktor.ru/func_001) | [Решение](https://github.com/halfas/testing/blob/main/func/func_001.js)
+  + FUNC_002 - [Задание](https://kodaktor.ru/func_002) | [Решение](https://github.com/halfas/testing/blob/main/func/func_002.js)
+  + FUNC_003 - [Задание](https://kodaktor.ru/func_003) | [Решение](https://github.com/halfas/testing/blob/main/func/func_003.js)
+  + FUNC_004 - [Задание](https://kodaktor.ru/func_004) | [Решение](https://github.com/halfas/testing/blob/main/func/func_004.js)
+  + FUNC_005 - [Задание](https://kodaktor.ru/func_005) | [Решение](https://github.com/halfas/testing/blob/main/func/func_005.js)
+  + FUNC_006 - [Задание](https://kodaktor.ru/func_006) | [Решение](https://github.com/halfas/testing/tree/main/func/func_006)
+  + FUNC_007 - [Задание](https://kodaktor.ru/func_007) | [Решение](https://github.com/halfas/testing/blob/main/func/func_007.js)
+  + FUNC_008 - [Задание](https://kodaktor.ru/func_008) | [Решение](https://github.com/halfas/testing/blob/main/func/func_008.js)
+  + FUNC_009 - [Задание](https://kodaktor.ru/func_009) | [Решение](https://github.com/halfas/testing/blob/main/func/func_009.js)
   
 + **ASYNC-TASKS** 
 
